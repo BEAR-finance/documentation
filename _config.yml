@@ -1,36 +1,36 @@
 # ----
 # Site
 
-title: Decentraland
-url: "https://docs.decentraland.org"
+title: Bearland
+url: "https://docs.bears.finance"
 baseurl: ""
 #google_analytics_key: UA-63691338-8
 disqus_shortname:
 newsletter_action:
 segment_write_key: ZHLrnVct1IQCx7yLeOzxSic7G1Duy0HH
 
-twitter_url: "https://twitter.com/decentraland"
-discord_url: "https://dcl.gg/discord"
-github_url: "https://github.com/decentraland"
-sdk_url: "https://docs.decentraland.org/"
-reddit_url: "https://reddit.com/r/decentraland"
-fb_url: "https://www.facebook.com/decentraland/"
-faq_url: "https://decentraland.org/#faqs"
-telegram_url: "https://t.me/decentralandTG"
+twitter_url: "https://twitter.com/bears_finance"
+discord_url: "https://dcl.gg"
+github_url: "https://github.com/bear-finance"
+sdk_url: "https://docs.bears.finance/"
+reddit_url: "https://reddit.com/r/"
+fb_url: "https://www.facebook.com/"
+faq_url: "https://bears.finance/#faqs"
+telegram_url: "https://t.me/bearstalk"
 legal_url: "https://decentraland.org/legal"
 press_url: "https://decentraland.org/press"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /images/favicon.png
-description: Decentraland Documentation
+description: Bearland Documentation
 author:
-  name: Decentraland
-  email: hello@decentraland.org
-  twitter: decentraland
+  name: Bearland
+  email: hello@bears.finance
+  twitter: bears_finance
 social:
-  name: Decentraland Documentation
+  name: Bearland Documentation
   links:
-    - https://github.com/decentraland/documentation
+    - https://github.com/bear/documentation
 
 markdown: kramdown
 
